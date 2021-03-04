@@ -1,6 +1,9 @@
 ### Hi there 👋
 I’m currently working on Mobvoi
 
+![image_loudspeaker](https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF)
+<img src="https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF" style="zoom:50%" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diaodiaolzq)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
