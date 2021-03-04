@@ -49,7 +49,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="80%" align="left" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
+    <img width="80%" align="right" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
   </a>
 </p>
 
@@ -58,13 +58,13 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
+  <img alt="HitCount" src="http://hits.dwyl.com/diaodiaolzq/diaodiaolzq.svg" />
+  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=diaodiaolzq.diaodiaolzq" />
   <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/diaodiaolzq/diaodiaolzq.svg" />
 </p>
 
 ---
 
 <!-- This readme was created by Eric Li - https://github.com/diaodiaolzq -->
-⭐️ From [diaodiaolzq](https://github.com/diaodiaolzq)
+⭐️ From [Eric Li](https://github.com/diaodiaolzq)
