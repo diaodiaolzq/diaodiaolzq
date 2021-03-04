@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
+<!-- Your title -->
+## Hi, I'm Eric Li, a Researcher 🚀 from China.
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="400" align="right" src="https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF" />
-
-<!-- Your title -->
-## Hi, I'm Eric Li, a Researcher 🚀 from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
