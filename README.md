@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Eric Li, a Researcher 🚀 from China.
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="400" align="right" src="https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF" />
+<img width="380" align="right" src="https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF" />
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -35,9 +35,9 @@ You can use the website to generate badges: https://shields.io/
 **Personal Stuffs:**
 
 - Currently working on [Mobvoi](https://www.chumenwenwen.com/);
-- Interested in Speech Enhancement and Audio Reproduction;
 - Graduated from IOA, CAS, China;
 - PhD. in Signal and Information Processing;
+- Interested in Speech Enhancement and Audio Reproduction;
 - Reach me: ziqinglee@qq.com;
 
 ---
@@ -49,7 +49,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="400" align="right" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
+    <img width="380" align="right" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
   </a>
 </p>
 
