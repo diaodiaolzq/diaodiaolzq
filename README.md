@@ -49,7 +49,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="44%" align="right" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
+    <img width="400" align="right" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
   </a>
 </p>
 
