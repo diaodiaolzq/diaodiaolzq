@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/子庆-李-b86b14202)
-[![Gmail](https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white)](ziqinglee@qq.com)
+[![Gmail](https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ziqinglee@qq.com)
 
 &nbsp;
 
