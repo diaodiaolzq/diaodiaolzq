@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="400" align="right" src="https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF" />
+
 <!-- Your title -->
 ## Hi, I'm Eric Li, a Researcher 🚀 from China.
 
@@ -28,9 +32,6 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="320" align="right" src="https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF" />
-
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
@@ -38,6 +39,7 @@ You can use the website to generate badges: https://shields.io/
 - Interested in Speech Enhancement and Audio Reproduction;
 - PhD. in Signal and Information Processing;
 - Reach me: ziqinglee@qq.com;
+&nbsp;
 
 ---
 
@@ -48,7 +50,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
+    <img width="80%" align="left" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
   </a>
 </p>
 
