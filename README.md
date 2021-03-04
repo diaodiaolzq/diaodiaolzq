@@ -44,13 +44,6 @@ You can use the website to generate badges: https://shields.io/
 
 **Tech Stack:**
 
-- Beamforming
-- Noise Suppression
-- Active Noise Control
-- Flat Panel loudspeaker
-- Spatial Audio Reproduction
-- Acoustic Echo Cancellation
-
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
@@ -59,6 +52,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img width="44%" align="right" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
   </a>
 </p>
+
+- Beamforming
+- Noise Suppression
+- Active Noise Control
+- Flat Panel loudspeaker
+- Spatial Audio Reproduction
+- Acoustic Echo Cancellation
 
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
