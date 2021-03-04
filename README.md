@@ -28,11 +28,11 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+<!-- Any image aligned to the right. Beware the width -->
+<img width="320" align="right" src="https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF" />
+
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
-
-<!-- Any image aligned to the right. Beware the width -->
-<img width="480" align="right" src="https://github.com/diaodiaolzq/diaodiaolzq/blob/main/images/IMG_3056.GIF" width="480" />
 
 - Currently working on [Mobvoi](https://www.chumenwenwen.com/);
 - Interested in Speech Enhancement and Audio Reproduction;
