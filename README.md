@@ -36,10 +36,9 @@ You can use the website to generate badges: https://shields.io/
 
 - Currently working on [Mobvoi](https://www.chumenwenwen.com/);
 - Interested in Speech Enhancement and Audio Reproduction;
+- Graduated from IOA, CAS, China;
 - PhD. in Signal and Information Processing;
 - Reach me: ziqinglee@qq.com;
-
-&nbsp;
 
 ---
 
