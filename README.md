@@ -32,7 +32,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 <!-- Talking about you -->
-**Talking about Personal Stuffs:**
+**Personal Stuffs:**
 
 - Currently working on [Mobvoi](https://www.chumenwenwen.com/);
 - Interested in Speech Enhancement and Audio Reproduction;
@@ -43,6 +43,13 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 **Tech Stack:**
+
+- Beamforming
+- Noise Suppression
+- Active Noise Control
+- Flat Panel loudspeaker
+- Spatial Audio Reproduction
+- Acoustic Echo Cancellation
 
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
