@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/子庆-李-b86b14202)
-[![Gmail](https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white)](ziqingLee@qq.com)
+[![Gmail](https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white)](ziqinglee@qq.com)
 
 &nbsp;
 
@@ -49,7 +49,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="420" align="right" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
+    <img width="400" align="right" alt="Eric Li's github stats" src="https://github-readme-stats.vercel.app/api?username=diaodiaolzq&show_icons=true&hide_border=true" />
   </a>
 </p>
 
